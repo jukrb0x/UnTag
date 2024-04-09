@@ -8,7 +8,7 @@
 Asset Tagging System for Unreal Engine
 
 - tagging assets by extending content browser context menu
-- tags can be used as content browser filter, dynamically
+- tags can be used as content browser filter, dynamically made with `UContentBrowserFrontEndFilterExtension`
 - data table editor for tags
 
 A `.untag` file is created for a tag, which is a text file with the same name as the tag, and contains a list of asset
