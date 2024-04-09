@@ -26,6 +26,7 @@ public class UnTag : ModuleRules
 			new string[]
 			{
 				"Core",
+				"AssetTools",
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
